@@ -1,0 +1,83 @@
+section#tres{
+    width: 400px;
+    height: 40px;
+    float: center;
+}
+u{
+    color:#d46454;
+}
+h1{
+    font-family: 'IBM Plex Serif', serif;
+    text-align: center;
+    color: white;
+}
+h2{
+    font-family: 'IBM Plex Serif', serif;
+    color: white;
+    text-align: center;
+}
+p{
+    font: Normal 10pt Courier New, monospace ;
+    color: black;
+    text-align: center;
+}
+body{
+    font-family: 'IBM Plex Serif', serif;
+    background-color: #1f414a;
+    border-style: double;
+    border-width: 20px;
+    border-color:#d46454;
+} 
+input#result{
+    width: 95px;
+    color: black;
+}
+img#esc{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    right: 980px;
+    background-repeat: no-repeat;
+    margin-top: 1px;
+    border-radius: 1000px;
+    box-shadow: 5px 5px 5px black;
+}
+img#esc1{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    right: 20px;
+    background-repeat: no-repeat;
+    margin-top: 1px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 1000px;
+
+}
+input#botao{
+    font: normal 13pt Arial;
+    background-color: #d46454;
+    border-color: #d46454;
+    float: center;
+}
+select#sle1{
+    width: 300px;
+}
+.prin{ 
+    color: white;
+}
+.paragrafo{
+    color:white;
+}
+section{
+    background-color: #d46454;
+    border-radius:100px;
+    width: 400px;
+    height: 40px;
+    box-shadow: 5px 5px 5px black;
+}
+h2{
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+textarea{
+    text-align: center;
+}
